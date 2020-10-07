@@ -1,0 +1,11 @@
+*.o
+*.txt
+/.cmake
+*.json
+*.ninja*
+*.cmake
+*.log
+*.user
+*.bin
+*.ui
+*.out
