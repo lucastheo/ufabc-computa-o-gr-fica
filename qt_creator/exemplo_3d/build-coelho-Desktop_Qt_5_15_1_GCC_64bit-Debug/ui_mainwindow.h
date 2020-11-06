@@ -42,6 +42,7 @@ public:
         gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
         openGLWidget = new OpenGLWidget(centralwidget);
         openGLWidget->setObjectName(QString::fromUtf8("openGLWidget"));
+        openGLWidget->setFocusPolicy(Qt::StrongFocus);
 
         gridLayout->addWidget(openGLWidget, 0, 0, 1, 1);
 
