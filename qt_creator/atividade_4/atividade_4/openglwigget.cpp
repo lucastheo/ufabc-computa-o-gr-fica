@@ -38,7 +38,7 @@ void OpenGLWigget::paintGL(){
 
     glUseProgram( sharderProgram );
     glBindVertexArray(vao1);
-    glDrawElements(GL_POLYGON, indices1.size() , GL_UNSIGNED_INT , 0 );
+    (GL_POLYGON, indices1.size() , GL_UNSIGNED_INT , 0 );
 
     glUseProgram( sharderProgram );
     glBindVertexArray(vao2);
@@ -101,6 +101,7 @@ void OpenGLWigget::createShaders(){
     glDetachShader(this->sharderProgram,fragementShader);
     glDeleteShader(vertexShader);
     glDeleteShader(fragementShader);
+    qDebug("aaa\N");
 }
 
 

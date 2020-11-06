@@ -173,69 +173,19 @@ atividade_4_autogen/timestamp: \
 	/home/theo/Programas/qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
 	/home/theo/Programas/qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
 	/home/theo/Programas/qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCompilerIdDetection.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineCompilerId.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeNinjaFindMake.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystem.cmake.in \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-FindBinUtils.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/TI-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake \
-	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-Determine-CXX.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake \
 	/home/theo/Programas/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux.cmake \
