@@ -25,7 +25,7 @@ public:
     void readOFFFile( QString &);
 
     void computeBBox();
-    void rescalModel();
+    void rescaleModel();
     QVector3D centrolidBB, minBB, maxBB;
     float diagonalBB{0.0f};
 
